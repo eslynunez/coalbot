@@ -10,19 +10,11 @@ the idea was to integrate the JIRA REST api to get tasks with more info. The Sla
 
 #### As requested by various members on the marketing team this is back in development!
  
-##### Where I could have made this better
-1. this could have been an actual slack integration but I think that wouldn't have solved the problem we had by using a free slack irc bot.
+###Things todo
+1. investigate how to port into a slack integration(possibly)
 2. Turn this into a flask app that is more modular
 3. Build Frontend interface
 4. Model out data to handle multiple bots and mulitple tasks
 5. Bot maker and task maker.
 6. run task service.
 7. user login and creation.
-
-
-
-
-
- 
-
- 
