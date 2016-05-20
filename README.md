@@ -1,4 +1,4 @@
-###COALBOT
+###COALBOTv1
 
 Run in dir 
 ```python coalbot.py```
